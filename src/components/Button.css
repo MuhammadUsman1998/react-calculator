@@ -1,0 +1,41 @@
+.show-hide {
+  width: 130px;
+  background-color: cadetblue;
+  border: none;
+  height: 40px;
+  font-size: 20px;
+}
+.show-hide:hover {
+  color: white;
+  cursor: pointer;
+}
+.Btn-wrap {
+  margin-top: 30px;
+}
+.name {
+  text-align: center;
+  font-size: 20px;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+th {
+  border: 1px solid black;
+  width: 140px;
+  /* height: 40px; */
+  padding: 8px;
+}
+td {
+  border: 1px solid black;
+  width: 140px;
+  height: 60px;
+  padding: 8px;
+}
+.far {
+  padding-left: 60px;
+  color: rebeccapurple;
+}

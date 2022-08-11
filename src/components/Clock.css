@@ -1,0 +1,27 @@
+.Time {
+  align-self: flex-start;
+  /* margin-top: -950px; */
+  margin-left: 20px;
+}
+.timebtn {
+  background-color: coral;
+  color: white;
+  width: 130px;
+  height: 40px;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  font-size: 15px;
+}
+.Date {
+  align-self: flex-end;
+  margin-right: 20px;
+  margin-top: -120px;
+}
+.bgcolor {
+  align-self: flex-start;
+  border: none;
+  background-color: cornflowerblue;
+  width: 100px;
+  height: 60px;
+}

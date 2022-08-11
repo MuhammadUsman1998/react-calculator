@@ -1,0 +1,30 @@
+body {
+  background-color: bisque;
+  color: black;
+  height: 100%;
+}
+.App {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.calc {
+  margin-top: 10px;
+  background-color: darkgoldenrod;
+  /* background-color: white; */
+  width: 15em;
+  text-align: center;
+  border-radius: 15px;
+}
+.row {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.row button {
+  width: 100px;
+  font-size: 24px;
+  background-color: yellowgreen;
+  cursor: pointer;
+}
